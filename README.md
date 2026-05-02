@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">Software Developer</h3>
-
+<div class="display:flex; justify-content:center;">
 <p align="center">
   <!-- .NET / C# (core focus) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
