@@ -5,11 +5,9 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  <!-- .NET & C# -->
+  <!-- .NET / C# (core focus) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg" width="40" height="40"/>
 
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -21,15 +19,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 
-  <!-- SQL & Tools -->
+  <!-- SQL -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+
+  <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </p>
+
 <p align="center">
-I graduated from Trakya University, Department of Information Systems and Technologies.
-I develop backend applications with C# (.NET Core / ASP.NET Core) and Java (Spring Boot).
-I have strong experience in SQL technologies such as MSSQL, PostgreSQL.
+I graduated from Trakya University, Department of Information Systems and Technologies.<br/>
+I develop backend applications with C# (.NET Core / ASP.NET Core) and Java (Spring Boot).<br/>
+I have strong experience in SQL technologies such as MSSQL and PostgreSQL.<br/>
 I enjoy researching, reading, discussing and writing code.
 </p>
