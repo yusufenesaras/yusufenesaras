@@ -3,8 +3,7 @@
 </h1>
 
 <h3 align="center">Software Developer</h3>
-
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
   <!-- .NET & C# -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
@@ -26,8 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</p>
-
+</div>
 <h2 align="center">
   My Portfolio Website:
   <a href="https://yusufenesaras.netlify.app/" target="_blank">click</a>
